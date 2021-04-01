@@ -1,0 +1,38 @@
+body{
+  background-image:url(mountain.png);
+  background-repeat:no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h1{
+  color: rgb(70, 206, 161);
+  text-align: center;
+  margin-top: 10rem;
+}
+
+table{
+  width: 115%;
+}
+
+th{
+  text-align: right;
+  margin-right: 20px;
+  padding: 10px 10px 10px 0px;
+  color: rgb(56, 2, 2);
+}
+
+td{
+  padding-left: 20px;
+}
+
+.first{
+  position: absolute;
+  left: 23cm;
+  bottom: 20px;
+}
+
+.cloud{
+  position: absolute;
+  left: 100px;
+}
